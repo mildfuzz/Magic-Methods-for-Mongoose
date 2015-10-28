@@ -1,0 +1,26 @@
+{
+  "name": "magic-methods",
+  "version": "0.0.1",
+  "description": "A mongoose plugins for adding simple findBy methods dynamically",
+  "main": "MagicMethods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mildfuzz@github.com/mildfuzz/Magic-Methods-for-Mongoose.git"
+  },
+  "keywords": [
+    "mongoose",
+    "find",
+    "query",
+    "dynamic",
+    "plugin"
+  ],
+  "author": "John Farrow <john@mildfuzz.com> (http://mildfuzz.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mildfuzz/Magic-Methods-for-Mongoose/issues"
+  },
+  "homepage": "https://github.com/mildfuzz/Magic-Methods-for-Mongoose#readme"
+}
